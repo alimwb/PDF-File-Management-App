@@ -3,8 +3,6 @@
 
 Welcome to the PDF File Management App! This application, built using React Native and Expo, allows users to securely store, download, and read PDF files. Below you'll find a comprehensive guide to the features, setup, and contribution process.
 
-![PDF File Management](path-to-your-banner-image)
-
 ## Features
 
 ### User Authentication
@@ -33,12 +31,6 @@ Welcome to the PDF File Management App! This application, built using React Nati
 
 - **Languages**: Developed with Kotlin or Java.
 - **User Interface**: Crafted with XML and Jetpack Compose for a seamless experience.
-
-## Screenshots
-
-![Registration Screen](path-to-your-screenshot1)
-![File List Screen](path-to-your-screenshot2)
-![PDF Reader Screen](path-to-your-screenshot3)
 
 ## Getting Started
 
